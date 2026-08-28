@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/luckygangwar26/DSA-java/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/luckygangwar26/DSA-java/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/luckygangwar26/DSA-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/luckygangwar26/DSA-java/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/luckygangwar26/DSA-java/tree/master/0877-stone-game) |
@@ -56,5 +57,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/luckygangwar26/DSA-java/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/luckygangwar26/DSA-java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
