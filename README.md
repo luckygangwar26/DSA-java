@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/luckygangwar26/DSA-java/tree/master/0014-longest-common-prefix) |
+| [0520-detect-capital](https://github.com/luckygangwar26/DSA-java/tree/master/0520-detect-capital) |
 ## Trie
 |  |
 | ------- |
