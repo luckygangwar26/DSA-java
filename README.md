@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/luckygangwar26/DSA-java/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/luckygangwar26/DSA-java/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/luckygangwar26/DSA-java/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/luckygangwar26/DSA-java/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/luckygangwar26/DSA-java/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/luckygangwar26/DSA-java/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/luckygangwar26/DSA-java/tree/master/0268-missing-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/luckygangwar26/DSA-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
