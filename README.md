@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/luckygangwar26/DSA-java/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/luckygangwar26/DSA-java/tree/master/0115-distinct-subsequences) |
 | [0520-detect-capital](https://github.com/luckygangwar26/DSA-java/tree/master/0520-detect-capital) |
 ## Trie
 |  |
@@ -30,6 +31,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/luckygangwar26/DSA-java/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/luckygangwar26/DSA-java/tree/master/0877-stone-game) |
 ## Minimax
 |  |
