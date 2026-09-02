@@ -13,6 +13,7 @@
 | [0283-move-zeroes](https://github.com/luckygangwar26/DSA-java/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/luckygangwar26/DSA-java/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/luckygangwar26/DSA-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [3875-construct-uniform-parity-array-i](https://github.com/luckygangwar26/DSA-java/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/luckygangwar26/DSA-java/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/luckygangwar26/DSA-java/tree/master/0877-stone-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/luckygangwar26/DSA-java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
