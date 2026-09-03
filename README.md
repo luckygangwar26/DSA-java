@@ -20,6 +20,7 @@
 | [0014-longest-common-prefix](https://github.com/luckygangwar26/DSA-java/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/luckygangwar26/DSA-java/tree/master/0115-distinct-subsequences) |
 | [0520-detect-capital](https://github.com/luckygangwar26/DSA-java/tree/master/0520-detect-capital) |
+| [2390-removing-stars-from-a-string](https://github.com/luckygangwar26/DSA-java/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -74,4 +75,12 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/luckygangwar26/DSA-java/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/luckygangwar26/DSA-java/tree/master/0283-move-zeroes) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/luckygangwar26/DSA-java/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/luckygangwar26/DSA-java/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
