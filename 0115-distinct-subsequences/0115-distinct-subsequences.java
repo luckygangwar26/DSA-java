@@ -1,25 +1,16 @@
-public class Solution {
+class Solution {
     public int numDistinct(String s, String t) {
-        int n = s.length();
-        int m = t.length();
-        if (m > n)
-            return 0;
-        int[] dp = new int[m + 1];
+        int m = s.length(), n = t.length();
+        int[] dp = new int[n + 1];
         dp[0] = 1;
-        for (int i = 1; i <= n; i++) {
-            char cs = s.charAt(i - 1);
-            for (int j = m; j >= 1; j--) {
-                if (cs == t.charAt(j - 1)) {
+        for (int i = 1; i <= m; i++) {
+            char sc = s.charAt(i - 1);
+            for (int j = Math.min(i, n); j >= 1; j--) {
+                if (sc == t.charAt(j - 1)) {
                     dp[j] += dp[j - 1];
                 }
             }
         }
-        return dp[m];
-    }
-
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        System.out.println(sol.numDistinct("rabbbit", "rabbit"));
-        System.out.println(sol.numDistinct("babgbag", "bag"));
+        return dp[n];
     }
 }
