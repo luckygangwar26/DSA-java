@@ -24,6 +24,7 @@
 | [0020-valid-parentheses](https://github.com/luckygangwar26/DSA-java/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/luckygangwar26/DSA-java/tree/master/0115-distinct-subsequences) |
 | [0520-detect-capital](https://github.com/luckygangwar26/DSA-java/tree/master/0520-detect-capital) |
+| [0940-distinct-subsequences-ii](https://github.com/luckygangwar26/DSA-java/tree/master/0940-distinct-subsequences-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/luckygangwar26/DSA-java/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
@@ -41,6 +42,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/luckygangwar26/DSA-java/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/luckygangwar26/DSA-java/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/luckygangwar26/DSA-java/tree/master/0940-distinct-subsequences-ii) |
 ## Minimax
 |  |
 | ------- |
