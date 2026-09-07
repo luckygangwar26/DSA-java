@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/luckygangwar26/DSA-java/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/luckygangwar26/DSA-java/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/luckygangwar26/DSA-java/tree/master/0115-distinct-subsequences) |
 | [0520-detect-capital](https://github.com/luckygangwar26/DSA-java/tree/master/0520-detect-capital) |
 | [2390-removing-stars-from-a-string](https://github.com/luckygangwar26/DSA-java/tree/master/2390-removing-stars-from-a-string) |
@@ -82,6 +83,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/luckygangwar26/DSA-java/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/luckygangwar26/DSA-java/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -92,4 +94,8 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/luckygangwar26/DSA-java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/luckygangwar26/DSA-java/tree/master/3904-smallest-stable-index-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/luckygangwar26/DSA-java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
