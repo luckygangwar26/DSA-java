@@ -23,6 +23,7 @@
 | [0014-longest-common-prefix](https://github.com/luckygangwar26/DSA-java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/luckygangwar26/DSA-java/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/luckygangwar26/DSA-java/tree/master/0115-distinct-subsequences) |
+| [0345-reverse-vowels-of-a-string](https://github.com/luckygangwar26/DSA-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0520-detect-capital](https://github.com/luckygangwar26/DSA-java/tree/master/0520-detect-capital) |
 | [0940-distinct-subsequences-ii](https://github.com/luckygangwar26/DSA-java/tree/master/0940-distinct-subsequences-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/luckygangwar26/DSA-java/tree/master/2390-removing-stars-from-a-string) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/luckygangwar26/DSA-java/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/luckygangwar26/DSA-java/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/luckygangwar26/DSA-java/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
 | ------- |
