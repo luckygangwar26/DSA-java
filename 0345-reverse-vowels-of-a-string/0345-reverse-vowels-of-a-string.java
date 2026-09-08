@@ -12,6 +12,7 @@ class Solution {
         while (i < j) {
             if (!check(arr[i])) {
                 i++;
+
             } else if (!check(arr[j])) {
                 j--;
             } else {
