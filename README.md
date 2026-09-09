@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/luckygangwar26/DSA-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/luckygangwar26/DSA-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/luckygangwar26/DSA-java/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/luckygangwar26/DSA-java/tree/master/0303-range-sum-query-immutable) |
 | [0877-stone-game](https://github.com/luckygangwar26/DSA-java/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/luckygangwar26/DSA-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3875-construct-uniform-parity-array-i](https://github.com/luckygangwar26/DSA-java/tree/master/3875-construct-uniform-parity-array-i) |
@@ -100,10 +101,15 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/luckygangwar26/DSA-java/tree/master/0303-range-sum-query-immutable) |
 | [3903-smallest-stable-index-i](https://github.com/luckygangwar26/DSA-java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/luckygangwar26/DSA-java/tree/master/3904-smallest-stable-index-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/luckygangwar26/DSA-java/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/luckygangwar26/DSA-java/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
