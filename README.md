@@ -120,4 +120,16 @@
 |  |
 | ------- |
 | [2439-minimize-maximum-of-array](https://github.com/luckygangwar26/DSA-java/tree/master/2439-minimize-maximum-of-array) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/luckygangwar26/DSA-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/luckygangwar26/DSA-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/luckygangwar26/DSA-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
