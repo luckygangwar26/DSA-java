@@ -5,10 +5,12 @@ class Solution {
             if (str.charAt(in) == '#') {
                 count++;
                 in--;
-            } else if (count > 0) {
+            }
+             else if (count > 0) {
                 count--;
                 in--;
-            } else {
+            } 
+            else {
                 break;
             }
         }
@@ -30,7 +32,7 @@ class Solution {
                 return false;
             }
            
-             if (s.charAt(i) != t.charAt(j)) {
+            if (s.charAt(i) != t.charAt(j)) {
                 return false;
             }
            
