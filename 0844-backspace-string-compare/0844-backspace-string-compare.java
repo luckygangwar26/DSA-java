@@ -3,8 +3,9 @@ class Solution {
 
         char[] sarr = s.toCharArray();
         char[] tarr = t.toCharArray();
+        int max = (sarr.length + tarr.length)-2;
 
-        for (int i = 0; i < Math.max(sarr.length, tarr.length); i++) {
+        for (int i = 0; i <= max; i++) {
 
             if (i < sarr.length && sarr[i] == '#') {
                 sarr[i] = 0;
