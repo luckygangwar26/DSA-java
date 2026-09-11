@@ -4,12 +4,12 @@ class Solution {
         char[] sarr = s.toCharArray();
         char[] tarr = t.toCharArray();
 
-        for (int i = 0; i < sarr.length; i++) {
-            if (sarr[i] == '#') {
+        for (int i = 0; i < Math.max(sarr.length, tarr.length); i++) {
+
+            if (i < sarr.length && sarr[i] == '#') {
                 sarr[i] = 0;
 
                 int j = i - 1;
-
                 while (j >= 0) {
                     if (sarr[j] != 0) {
                         sarr[j] = 0;
@@ -18,14 +18,11 @@ class Solution {
                     j--;
                 }
             }
-        }
 
-        for (int i = 0; i < tarr.length; i++) {
-            if (tarr[i] == '#') {
+            if (i < tarr.length && tarr[i] == '#') {
                 tarr[i] = 0;
 
                 int j = i - 1;
-
                 while (j >= 0) {
                     if (tarr[j] != 0) {
                         tarr[j] = 0;
