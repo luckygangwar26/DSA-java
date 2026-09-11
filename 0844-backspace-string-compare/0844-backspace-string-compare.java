@@ -14,7 +14,7 @@ class Solution {
         }
         return in;
     }
-    
+
     public boolean backspaceCompare(String s, String t) {
         int i = s.length() - 1;
         int j = t.length() - 1;
@@ -25,13 +25,15 @@ class Solution {
 
             if (i < 0 && j < 0) {
                 return true;
-            }
+            } 
             if (i < 0 || j < 0) {
                 return false;
             }
-            if (s.charAt(i) != t.charAt(j)) {
+           
+             if (s.charAt(i) != t.charAt(j)) {
                 return false;
             }
+           
 
             i--;
             j--;
