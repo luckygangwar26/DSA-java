@@ -16,6 +16,7 @@
 | [0877-stone-game](https://github.com/luckygangwar26/DSA-java/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/luckygangwar26/DSA-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2439-minimize-maximum-of-array](https://github.com/luckygangwar26/DSA-java/tree/master/2439-minimize-maximum-of-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/luckygangwar26/DSA-java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3875-construct-uniform-parity-array-i](https://github.com/luckygangwar26/DSA-java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/luckygangwar26/DSA-java/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/luckygangwar26/DSA-java/tree/master/3903-smallest-stable-index-i) |
@@ -53,6 +54,7 @@
 | [0877-stone-game](https://github.com/luckygangwar26/DSA-java/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/luckygangwar26/DSA-java/tree/master/0940-distinct-subsequences-ii) |
 | [2439-minimize-maximum-of-array](https://github.com/luckygangwar26/DSA-java/tree/master/2439-minimize-maximum-of-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/luckygangwar26/DSA-java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0268-missing-number](https://github.com/luckygangwar26/DSA-java/tree/master/0268-missing-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/luckygangwar26/DSA-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2439-minimize-maximum-of-array](https://github.com/luckygangwar26/DSA-java/tree/master/2439-minimize-maximum-of-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/luckygangwar26/DSA-java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +86,7 @@
 | [0088-merge-sorted-array](https://github.com/luckygangwar26/DSA-java/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/luckygangwar26/DSA-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/luckygangwar26/DSA-java/tree/master/0268-missing-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/luckygangwar26/DSA-java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
