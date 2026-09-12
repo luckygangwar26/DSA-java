@@ -17,6 +17,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/luckygangwar26/DSA-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2439-minimize-maximum-of-array](https://github.com/luckygangwar26/DSA-java/tree/master/2439-minimize-maximum-of-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/luckygangwar26/DSA-java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/luckygangwar26/DSA-java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/luckygangwar26/DSA-java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/luckygangwar26/DSA-java/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/luckygangwar26/DSA-java/tree/master/3903-smallest-stable-index-i) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/luckygangwar26/DSA-java/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/luckygangwar26/DSA-java/tree/master/0877-stone-game) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/luckygangwar26/DSA-java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/luckygangwar26/DSA-java/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/luckygangwar26/DSA-java/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/luckygangwar26/DSA-java/tree/master/3875-construct-uniform-parity-array-i) |
