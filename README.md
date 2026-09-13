@@ -13,6 +13,7 @@
 | [0283-move-zeroes](https://github.com/luckygangwar26/DSA-java/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/luckygangwar26/DSA-java/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/luckygangwar26/DSA-java/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/luckygangwar26/DSA-java/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/luckygangwar26/DSA-java/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/luckygangwar26/DSA-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2439-minimize-maximum-of-array](https://github.com/luckygangwar26/DSA-java/tree/master/2439-minimize-maximum-of-array) |
@@ -145,4 +146,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/luckygangwar26/DSA-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/luckygangwar26/DSA-java/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
