@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/luckygangwar26/DSA-java/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/luckygangwar26/DSA-java/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/luckygangwar26/DSA-java/tree/master/0877-stone-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/luckygangwar26/DSA-java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/luckygangwar26/DSA-java/tree/master/3870-count-commas-in-range) |
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/luckygangwar26/DSA-java/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/luckygangwar26/DSA-java/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
