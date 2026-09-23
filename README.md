@@ -32,6 +32,7 @@
 | [0058-length-of-last-word](https://github.com/luckygangwar26/DSA-java/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/luckygangwar26/DSA-java/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/luckygangwar26/DSA-java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/luckygangwar26/DSA-java/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/luckygangwar26/DSA-java/tree/master/0520-detect-capital) |
 | [0844-backspace-string-compare](https://github.com/luckygangwar26/DSA-java/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/luckygangwar26/DSA-java/tree/master/0940-distinct-subsequences-ii) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/luckygangwar26/DSA-java/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/luckygangwar26/DSA-java/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/luckygangwar26/DSA-java/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/luckygangwar26/DSA-java/tree/master/0877-stone-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/luckygangwar26/DSA-java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -115,6 +117,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/luckygangwar26/DSA-java/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/luckygangwar26/DSA-java/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/luckygangwar26/DSA-java/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
