@@ -35,6 +35,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/luckygangwar26/DSA-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/luckygangwar26/DSA-java/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/luckygangwar26/DSA-java/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/luckygangwar26/DSA-java/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/luckygangwar26/DSA-java/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/luckygangwar26/DSA-java/tree/master/0940-distinct-subsequences-ii) |
 | [1768-merge-strings-alternately](https://github.com/luckygangwar26/DSA-java/tree/master/1768-merge-strings-alternately) |
@@ -90,6 +91,7 @@
 | [0001-two-sum](https://github.com/luckygangwar26/DSA-java/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/luckygangwar26/DSA-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/luckygangwar26/DSA-java/tree/master/0268-missing-number) |
+| [0567-permutation-in-string](https://github.com/luckygangwar26/DSA-java/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0088-merge-sorted-array](https://github.com/luckygangwar26/DSA-java/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/luckygangwar26/DSA-java/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/luckygangwar26/DSA-java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/luckygangwar26/DSA-java/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/luckygangwar26/DSA-java/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/luckygangwar26/DSA-java/tree/master/1768-merge-strings-alternately) |
 ## Stack
@@ -162,4 +165,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/luckygangwar26/DSA-java/tree/master/0836-rectangle-overlap) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/luckygangwar26/DSA-java/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
