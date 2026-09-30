@@ -38,6 +38,7 @@
 | [0567-permutation-in-string](https://github.com/luckygangwar26/DSA-java/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/luckygangwar26/DSA-java/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/luckygangwar26/DSA-java/tree/master/0940-distinct-subsequences-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/luckygangwar26/DSA-java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1768-merge-strings-alternately](https://github.com/luckygangwar26/DSA-java/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/luckygangwar26/DSA-java/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
@@ -119,6 +120,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/luckygangwar26/DSA-java/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/luckygangwar26/DSA-java/tree/master/0844-backspace-string-compare) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/luckygangwar26/DSA-java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/luckygangwar26/DSA-java/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/luckygangwar26/DSA-java/tree/master/0020-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/luckygangwar26/DSA-java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Design
 |  |
 | ------- |
