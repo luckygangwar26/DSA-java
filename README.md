@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/luckygangwar26/DSA-java/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/luckygangwar26/DSA-java/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/luckygangwar26/DSA-java/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/luckygangwar26/DSA-java/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/luckygangwar26/DSA-java/tree/master/0836-rectangle-overlap) |
